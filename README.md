@@ -1,4 +1,4 @@
-Treino-JS Olá, Bem vindo ao meu projeto de Treino-Js.
+ Olá, Bem vindo ao meu projeto de Treino-Js.
 Ferramentas utilizadas:
 
 HTML
