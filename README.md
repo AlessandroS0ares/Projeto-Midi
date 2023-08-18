@@ -2,7 +2,9 @@ Treino-JS Olá, Bem vindo ao meu projeto de Treino-Js.
 Ferramentas utilizadas:
 
 HTML
+
 CSS
+
 JavaScript
 
 Feito por:
